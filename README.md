@@ -59,3 +59,22 @@ numpy-learning/
  
 ---
 
+## 🧭 Learning Roadmap
+ 
+| # | Topic | What It Covers |
+|---|---|---|
+| 1 | Array Basics | 1D, 2D and multi-dimensional arrays |
+| 2 | Array Creation | `zeros`, `ones`, `arange`, `linspace`, random arrays |
+| 3 | Array Properties | `shape`, `size`, `ndim`, `dtype` |
+| 4 | Math Operations | Element-wise arithmetic and universal functions |
+| 5 | Aggregations | `sum`, `mean`, `std`, `min`, `max` with `axis` |
+| 6 | Indexing & Slicing | Basic, boolean and fancy indexing |
+| 7 | Reshaping | `reshape`, `flatten`, `transpose`, stacking |
+| 8 | Broadcasting | Rules for combining arrays of different shapes |
+| 9 | Vectorization | Replacing Python loops with array operations |
+| 10 | Missing Data | Finding and handling `NaN` values |
+| 11 | Advanced NumPy | Deeper array techniques |
+| 12 | Capstone Project | Analysis of an Indian employee dataset |
+ 
+---
+ 
