@@ -135,3 +135,13 @@ print(a.mean())     # 2.5        -> aggregation
 - Applying all of the above to a **real-world dataset**
 ---
  
+## 🚀 What's Next
+ 
+- [ ] Pandas for tabular data analysis
+- [ ] Matplotlib for visualization
+- [ ] Linear regression from scratch using only NumPy
+- [ ] Introduction to scikit-learn
+
+---
+
+ 
