@@ -123,3 +123,15 @@ print(a.mean())     # 2.5        -> aggregation
  
 ---
 
+## 📚 What I Learned
+ 
+- Replacing slow Python loops with **vectorized** operations
+- Choosing the right array-creation function for the job
+- Reading and reasoning about array **shape**, **dtype** and **dimensions**
+- Using **boolean masks** and slicing to filter data efficiently
+- Applying **broadcasting** rules without trial and error
+- Using the `axis` argument correctly in aggregations
+- Detecting and handling **missing values (`NaN`)**
+- Applying all of the above to a **real-world dataset**
+---
+ 
