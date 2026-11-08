@@ -104,3 +104,22 @@ python "Array Creations.py"
 ```
  
 ---
+
+## 🧠 How It Works
+ 
+Think of a normal Python loop as **one cashier serving customers one at a time**. NumPy opens **every counter at once**.
+ 
+Under the hood, NumPy stores data in contiguous blocks of memory with a single fixed data type, and runs operations in optimized compiled code (C). That is why an operation like `arr * 2` applies to every element at once, with no explicit loop, and is often dramatically faster than the pure-Python equivalent.
+ 
+```python
+import numpy as np
+ 
+a = np.array([1, 2, 3, 4])
+print(a * 2)        # [2 4 6 8]  -> vectorized, no loop
+print(a.mean())     # 2.5        -> aggregation
+```
+ 
+**Broadcasting** extends this idea: NumPy stretches smaller arrays to match larger ones, so you can add a single row to every row of a matrix without copying data by hand.
+ 
+---
+
