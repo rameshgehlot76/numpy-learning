@@ -17,3 +17,5 @@
 ## 📌 Overview
 
 This repository documents my structured journey of learning **NumPy** from first principles. Every topic lives in its own script or folder, with runnable examples that build from basic array creation to broadcasting, vectorization, handling missing data, and a real-world dataset project.
+
+The goal is practical fluency: writing fast, clean, vectorized code of the kind used in AI/ML and data engineering work.
