@@ -7,3 +7,4 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Library-013243?logo=numpy&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
