@@ -83,3 +83,24 @@ numpy-learning/
 ### Prerequisites
 - Python 3.10 or higher
 - pip
+
+### Setup
+ 
+```bash
+# 1. Clone the repository
+git clone https://github.com/rameshgehlot76/numpy-learning.git
+cd numpy-learning
+ 
+# 2. (Optional) Create a virtual environment
+python -m venv venv
+venv\Scripts\activate        # Windows
+source venv/bin/activate     # macOS / Linux
+ 
+# 3. Install NumPy
+pip install numpy
+ 
+# 4. Run any script
+python "Array Creations.py"
+```
+ 
+---
