@@ -45,3 +45,17 @@ numpy-learning/
 ├── Indian Employee Dataset/   # Real-world dataset analysis project
 ├── Reshaping & Manipulation/  # reshape, flatten, stack, split
 ├── Vectorization/             # Loop-free, high-performance computation
+│
+├── 1.py                       # First steps with NumPy
+├── 1d arr.py                  # One-dimensional arrays
+├── 2d arr.py                  # Two-dimensional arrays
+├── Multid arr.py              # Multi-dimensional arrays
+├── Array Creations.py         # zeros, ones, arange, linspace, random
+├── Array Properties.py        # shape, size, dtype, ndim
+├── Aggregation_functions.py   # sum, mean, std, min, max, axis-wise ops
+├── Maths.py                   # Mathematical operations on arrays
+└── README.md
+```
+ 
+---
+
