@@ -78,3 +78,8 @@ numpy-learning/
  
 ---
  
+## ⚙️ Getting Started
+ 
+### Prerequisites
+- Python 3.10 or higher
+- pip
