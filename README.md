@@ -144,4 +144,13 @@ print(a.mean())     # 2.5        -> aggregation
 
 ---
 
+
+ ## 👤 Author
  
+**Ramesh Gehlot**
+B.Tech Computer Science student, building toward a career in AI/ML and software engineering.
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-rameshgehlot76-181717?logo=github)](https://github.com/rameshgehlot76)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20Gehlot-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-gehlot-527236372)
+ 
+⭐ If you find this repository helpful, consider giving it a star!
