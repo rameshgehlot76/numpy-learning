@@ -32,3 +32,16 @@ The goal is practical fluency: writing fast, clean, vectorized code of the kind 
 | Version Control | Git & GitHub |
  
 ---
+
+## 📂 Project Structure
+ 
+```text
+numpy-learning/
+│
+├── Advanced Numpy/            # Advanced array operations and techniques
+├── Broadcasting/              # Operating on arrays of different shapes
+├── Handling Missing Values/   # NaN detection, masking, and cleaning
+├── Indexing & Slicing/        # Accessing and modifying array elements
+├── Indian Employee Dataset/   # Real-world dataset analysis project
+├── Reshaping & Manipulation/  # reshape, flatten, stack, split
+├── Vectorization/             # Loop-free, high-performance computation
